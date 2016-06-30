@@ -1,3 +1,5 @@
+// Segment Tree for range min
+
 #include <iostream>
 #include <string>
 using namespace std;
